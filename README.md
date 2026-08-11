@@ -9,17 +9,19 @@ const helmi = {
   funFact: "My GitHub activity graph might be quiet, but my code speaks volumes!"
 };
 
+<p align="center">🛠️ Tech Stack Languages </p>
+<p align="center"><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php" alt="Languages" /> </a> </p>
+<p align="center">Frameworks & Libraries</p>
+<p align="center"><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,vue" alt="Frameworks" /> </a> </p>
+<p align="center">Databases & Tools</p>
+<p align="center"><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker" alt="Tools" /> </a> </p>
+<p align="center">Other Tools</p>
+<p align="center"><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Other Tools" /> </a> </p>
 
-<p align="center">🛠️ Tech Stack
-Languages <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php" alt="Languages" /> </a> </p>
-<p align="center">Frameworks & Libraries <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,vue" alt="Frameworks" /> </a> </p>
-<p align="center"> Databases & Tools<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker" alt="Tools" /> </a> </p>
-<p align="center">Other Tools<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Other Tools" /> </a> </p>
-
-📈 Contribution Graph
+<p align="center">📈 Contribution Graph</p>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=helmialfaiz79&theme=tokyo-night&bg_color=00000000&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" /> </div>
 
-🐍 Contribution Snake
+<p align="center">🐍 Contribution Snake</p>
 <div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" /> </div>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=helmialfaiz79&label=Profile%20Views&color=00FF88&style=for-the-badge" alt="Profile Views" /> </div>
