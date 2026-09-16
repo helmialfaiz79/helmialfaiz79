@@ -1,43 +1,25 @@
-<svg width="1100" height="250" viewBox="0 0 1100 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">About and current focus card</title>
-  <desc id="desc">A visual card showing about information and current focus areas for Helmi Alfaiz.</desc>
-  <rect width="1100" height="250" rx="18" fill="#0d1117"/>
-  <rect x="1" y="1" width="1098" height="248" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240">
+  <rect width="1100" height="240" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="1098" height="238" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
 
-  <rect x="28" y="28" width="504" height="194" rx="14" fill="#111827"/>
-  <rect x="568" y="28" width="504" height="194" rx="14" fill="#111827"/>
+  <rect x="28" y="28" width="504" height="184" rx="14" fill="#111827" stroke="#21262d"/>
+  <rect x="568" y="28" width="504" height="184" rx="14" fill="#111827" stroke="#21262d"/>
 
-  <text x="52" y="59" fill="#8b949e" font-family="monospace" font-size="16">ABOUT</text>
-  <circle cx="502" cy="53" r="4" fill="#39d353"/>
+  <text x="52" y="60" fill="#39d353" font-family="monospace" font-size="16">$ about</text>
+  <text x="52" y="95" fill="#f0f6fc" font-family="monospace" font-size="23" font-weight="700">What I do</text>
+  <text x="52" y="128" fill="#c9d1d9" font-family="monospace" font-size="16">Linux systems and app delivery</text>
+  <text x="52" y="154" fill="#c9d1d9" font-family="monospace" font-size="16">CI/CD and repeatable deployments</text>
+  <text x="52" y="180" fill="#c9d1d9" font-family="monospace" font-size="16">Production troubleshooting with logs</text>
 
-  <text x="52" y="95" fill="#f0f6fc" font-family="monospace" font-size="21" font-weight="700">What I do</text>
-  <text x="52" y="125" fill="#c9d1d9" font-family="sans-serif" font-size="18">I work around Linux systems, application delivery,</text>
-  <text x="52" y="149" fill="#c9d1d9" font-family="sans-serif" font-size="18">repeatable deployments, and troubleshooting</text>
-  <text x="52" y="173" fill="#c9d1d9" font-family="sans-serif" font-size="18">production issues with logs and server behavior.</text>
+  <text x="592" y="60" fill="#58a6ff" font-family="monospace" font-size="16">$ current</text>
+  <text x="592" y="95" fill="#f0f6fc" font-family="monospace" font-size="23" font-weight="700">Current focus</text>
 
-  <rect x="52" y="186" width="142" height="22" rx="11" fill="#0d1117" stroke="#30363d"/>
-  <text x="123" y="201" text-anchor="middle" fill="#58a6ff" font-family="monospace" font-size="12">Linux Operations</text>
-  <rect x="202" y="186" width="92" height="22" rx="11" fill="#0d1117" stroke="#30363d"/>
-  <text x="248" y="201" text-anchor="middle" fill="#58a6ff" font-family="monospace" font-size="12">CI/CD</text>
-  <rect x="302" y="186" width="128" height="22" rx="11" fill="#0d1117" stroke="#30363d"/>
-  <text x="366" y="201" text-anchor="middle" fill="#58a6ff" font-family="monospace" font-size="12">Troubleshooting</text>
-  <rect x="438" y="186" width="70" height="22" rx="11" fill="#0d1117" stroke="#30363d"/>
-  <text x="473" y="201" text-anchor="middle" fill="#58a6ff" font-family="monospace" font-size="12">PM2</text>
+  <circle cx="600" cy="126" r="5" fill="#39d353"/>
+  <text x="618" y="132" fill="#c9d1d9" font-family="monospace" font-size="16">Linux administration</text>
 
-  <text x="592" y="59" fill="#8b949e" font-family="monospace" font-size="16">CURRENT</text>
-  <circle cx="1042" cy="53" r="4" fill="#58a6ff"/>
+  <circle cx="600" cy="152" r="5" fill="#39d353"/>
+  <text x="618" y="158" fill="#c9d1d9" font-family="monospace" font-size="16">GitHub Actions and CI/CD</text>
 
-  <text x="592" y="95" fill="#f0f6fc" font-family="monospace" font-size="21" font-weight="700">Current focus</text>
-
-  <circle cx="604" cy="125" r="5" fill="#39d353"/>
-  <text x="620" y="131" fill="#c9d1d9" font-family="sans-serif" font-size="18">Linux administration & services</text>
-
-  <circle cx="604" cy="152" r="5" fill="#39d353"/>
-  <text x="620" y="158" fill="#c9d1d9" font-family="sans-serif" font-size="18">GitHub Actions / CI/CD pipelines</text>
-
-  <circle cx="604" cy="179" r="5" fill="#39d353"/>
-  <text x="620" y="185" fill="#c9d1d9" font-family="sans-serif" font-size="18">Nginx, PM2, deployments, logs</text>
-
-  <circle cx="604" cy="206" r="5" fill="#39d353"/>
-  <text x="620" y="212" fill="#c9d1d9" font-family="sans-serif" font-size="18">Object storage migration with rclone</text>
+  <circle cx="600" cy="178" r="5" fill="#39d353"/>
+  <text x="618" y="184" fill="#c9d1d9" font-family="monospace" font-size="16">Nginx, PM2, logs, storage</text>
 </svg>
