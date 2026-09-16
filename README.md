@@ -23,8 +23,11 @@
 </div>
 
 <br />
-
-<img src="./assets/about-current-card.svg" alt="About and current focus" width="100%" />
+<img
+  src="./assets/about-current-card.svg"
+  alt="About and current focus"
+  width="100%"
+/>
 
 ### `> toolbox`
 
