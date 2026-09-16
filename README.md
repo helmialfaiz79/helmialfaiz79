@@ -24,26 +24,31 @@
 
 <br />
 
+<img src="./assets/about-current-card.svg" alt="About and current focus" width="100%" />
+
+> toolbox
+
+<div align="center">
+
+<img
+src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,git,github,githubactions,nodejs,nextjs,express,laravel,mysql,postgres,redis,vscode"
+alt="Tech stack"
+/>
+
+</div>
+
+<br />
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center"><b>Systems</b><br/><sub>Linux · CentOS · services · storage</sub></td>
+<td align="center"><b>Delivery</b><br/><sub>GitHub Actions · Bash · Git · rsync</sub></td>
+<td align="center"><b>App Ops</b><br/><sub>Nginx · PM2 · Next.js · Express · Laravel</sub></td>
+<td align="center"><b>Observability</b><br/><sub>Logs · Prometheus · troubleshooting</sub></td>
+</tr>
+</table>
 
-> about
+> selected-work
 
-I work around Linux systems and application delivery — supporting deployments, troubleshooting production issues, and improving repeatable workflows.
-
-ROLE="Junior DevOps / Linux SysAdmin"
-FOCUS="CI/CD · Linux · Operations"
-MODE="learn → test → automate"
-
-</td>
-<td width="50%" valign="top">
-
-> current
-
-✓ Linux administration
-✓ GitHub Actions / CI/CD
-✓ Nginx & PM2
-✓ Deployment workflows
-✓ Logs & troubleshooting
-✓ Object storage & rclone
+[01] Repeatable frontend deployments
+     release directories · symlinks · rsync · PM2
