@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal-card.svg" alt="Helmi Alfaiz terminal profile" width="100%" />
+<img src="https://raw.githubusercontent.com/helmialfaiz79/helmialfaiz79/main/assets/terminal-card.svg" alt="Helmi Alfaiz terminal profile" width="100%" />
 
 <br />
 
@@ -24,7 +24,7 @@
 
 <br />
 
-<img src="./assets/about-current-card.svg" alt="About and current focus" width="100%" />
+<img src="https://raw.githubusercontent.com/helmialfaiz79/helmialfaiz79/main/assets/about-current-card.svg" alt="About and current focus" width="100%" />
 
 > toolbox
 
@@ -52,3 +52,29 @@ alt="Tech stack"
 
 [01] Repeatable frontend deployments
      release directories · symlinks · rsync · PM2
+
+[02] Production request troubleshooting
+     Nginx logs · timings · process behavior · app errors
+
+[03] Object storage migration
+     rclone · persistent sessions · S3-compatible storage
+
+<div align="center">
+
+> connect
+
+<a href="https://helmialfaiz79.github.io/"><b>Portfolio</b></a>
+ · 
+<a href="https://github.com/helmialfaiz79"><b>GitHub</b></a>
+ · 
+<a href="mailto:helmialfaiz76@gmail.com"><b>Email</b></a>
+ · 
+<a href="https://www.linkedin.com/in/helmi-alfaiz-6377a4141"><b>LinkedIn</b></a>
+ · 
+<a href="https://www.instagram.com/helmialfaiz"><b>Instagram</b></a>
+
+<br /><br />
+
+<sub><code>helmi@github:~$ learning · deploying · troubleshooting · automating</code></sub>
+
+</div>
