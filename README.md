@@ -1,54 +1,107 @@
 <div align="center">
 
-Hi, I'm Helmi Alfaiz 👋
+Helmi Alfaiz 👋
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=620&lines=Junior+DevOps+%2F+Linux+System+Administrator;Linux+%7C+CI%2FCD+%7C+Nginx+%7C+PM2;Troubleshoot.+Automate.+Improve."
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=00C853&center=true&vCenter=true&width=700&lines=Junior+DevOps+%2F+Linux+System+Administrator;Linux+%7C+CI%2FCD+%7C+Nginx+%7C+PM2;Deployment+%7C+Troubleshooting+%7C+Automation"
 alt="Typing SVG"
 />
+
+<br />
+
+<a href="https://helmialfaiz79.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-helmialfaiz79.github.io-00C853?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/helmialfaiz79">
+  <img src="https://img.shields.io/badge/GitHub-helmialfaiz79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
 $ whoami
 
-Junior DevOps / Linux System Administrator focused on Linux, CI/CD, deployments, troubleshooting, monitoring, and storage operations.
+Junior DevOps / Linux System Administrator focused on Linux operations, CI/CD, deployment workflows, production troubleshooting, monitoring, and storage operations.
 
-const helmi = {
-  role: "Junior DevOps / Linux System Administrator",
-  stack: ["Linux", "Bash", "GitHub Actions", "Nginx", "PM2", "rsync", "rclone"],
-  focus: ["CI/CD", "Production troubleshooting", "Monitoring", "Automation"],
-}
+helmi@portfolio:~$ cat profile.conf
 
-$ toolbox
+ROLE="Junior DevOps / Linux System Administrator"
+FOCUS="Linux | CI/CD | Deployments | Troubleshooting"
+STATUS="Learning, building, improving"
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,git,github,githubactions,nodejs,nextjs,express,laravel,mysql,postgres,redis,vscode"
-      alt="Tech stack"
-    />
-  </a>
-</p>
+$ stack --list
 
-$ current-focus
+<div align="center">
 
-Linux · CI/CD · Nginx · PM2 · GitHub Actions
-Deployment automation · Logs · Monitoring · Object storage
+<a href="https://skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,git,github,githubactions,nodejs,nextjs,express,laravel,mysql,postgres,redis,vscode"
+    alt="Tech stack"
+  />
+</a>
 
-$ connect
+</div>
 
-<p align="center">
+<br />
+
+Area
+
+Tools / Focus
+
+Systems
+
+Linux, CentOS, permissions, services, storage
+
+Delivery
+
+GitHub Actions, Bash, Git, pnpm, rsync
+
+App Operations
+
+Nginx, PM2, Next.js, Express, Laravel
+
+Monitoring & Storage
+
+Logs, Prometheus, rclone, S3-compatible storage
+
+$ recent-work
+
+[+] Release-based frontend deployments
+[+] Production request troubleshooting with logs
+[+] PM2 and Nginx application operations
+[+] File migration with rclone and object storage
+[+] CI/CD workflow improvements with GitHub Actions
+
+$ connect --all
+
+<div align="center">
 
 <a href="mailto:helmialfaiz76@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+  <img src="https://img.shields.io/badge/Email-helmialfaiz76%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/helmi-alfaiz-6377a4141">
+  <img src="https://img.shields.io/badge/LinkedIn-Helmi%20Alfaiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/helmialfaiz">
+  <img src="https://img.shields.io/badge/Instagram-%40helmialfaiz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <a href="https://github.com/helmialfaiz79">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/badge/GitHub-helmialfaiz79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
+<a href="https://helmialfaiz79.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-helmialfaiz79.github.io-00C853?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+<div align="center">
+
+helmi@github:~$ uptime
+learning • deploying • troubleshooting • automating
+
+<sub>Building stronger operational habits, one deployment and incident at a time.</sub>
+
+</div>
