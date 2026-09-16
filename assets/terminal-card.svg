@@ -1,0 +1,27 @@
+<svg width="1100" height="330" viewBox="0 0 1100 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Helmi Alfaiz terminal profile card</title>
+  <desc id="desc">A terminal-inspired profile banner for Helmi Alfaiz, Junior DevOps and Linux System Administrator.</desc>
+  <rect width="1100" height="330" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="1098" height="328" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+
+  <circle cx="34" cy="30" r="7" fill="#ff5f56"/>
+  <circle cx="58" cy="30" r="7" fill="#ffbd2e"/>
+  <circle cx="82" cy="30" r="7" fill="#27c93f"/>
+  <text x="550" y="36" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="16">helmi@portfolio: ~</text>
+
+  <line x1="0" y1="58" x2="1100" y2="58" stroke="#21262d" stroke-width="2"/>
+
+  <text x="36" y="100" fill="#39d353" font-family="monospace" font-size="22">$ whoami</text>
+  <text x="36" y="137" fill="#f0f6fc" font-family="monospace" font-size="30" font-weight="700">Helmi Alfaiz</text>
+  <text x="36" y="173" fill="#58a6ff" font-family="monospace" font-size="21">Junior DevOps / Linux System Administrator</text>
+
+  <text x="36" y="219" fill="#39d353" font-family="monospace" font-size="22">$ stack --current</text>
+  <text x="36" y="253" fill="#c9d1d9" font-family="monospace" font-size="19">Linux · Bash · GitHub Actions · Nginx · PM2 · rsync · rclone</text>
+
+  <text x="36" y="296" fill="#39d353" font-family="monospace" font-size="22">$ status</text>
+  <text x="150" y="296" fill="#c9d1d9" font-family="monospace" font-size="19">learning · deploying · troubleshooting · automating</text>
+
+  <rect x="1002" y="283" width="12" height="22" fill="#39d353">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
